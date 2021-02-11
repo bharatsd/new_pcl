@@ -1,8 +1,0 @@
-prefix=/home/bharat/workspace/new_pcl/src/build/devel
-
-Name: my_pcl_tutorial
-Description: Description of my_pcl_tutorial
-Version: 0.0.0
-Cflags: -I/home/bharat/workspace/new_pcl/src/my_pcl_tutorial/include
-Libs: -L${prefix}/lib -lmy_pcl_tutorial
-Requires: 
