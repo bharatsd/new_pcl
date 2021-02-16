@@ -1,0 +1,8 @@
+prefix=/home/compositecell2/Desktop/bharat_ws/src/Master/my_pcl_tutorial/build/devel
+
+Name: my_pcl_tutorial
+Description: Description of my_pcl_tutorial
+Version: 0.0.0
+Cflags: -I/home/compositecell2/Desktop/bharat_ws/src/Master/my_pcl_tutorial/include
+Libs: -L${prefix}/lib -lmy_pcl_tutorial
+Requires: 
